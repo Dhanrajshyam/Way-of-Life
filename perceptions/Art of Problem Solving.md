@@ -1,4 +1,4 @@
-**Systematic inquiry and adaptive problem-solving**
+# Systematic inquiry and adaptive problem-solving
 
 **1\. Understanding the Problem (Clarity & Scope)**
 
