@@ -1,5 +1,7 @@
 # **Code Optimization Objectives**
 
+Wisdom talk: Find the most useful information(minimum required information) quickly to solve the given problem quickly using best strategy known today. Then find new ways. **You dont know everything.**
+
 ## **Time Optimization**
 - **Improve Processing Time**  
   - Reduce the time taken to produce the output for a given input.
