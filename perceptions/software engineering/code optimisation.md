@@ -2,6 +2,9 @@
 
 Wisdom talk: Find the most useful information(minimum required information) quickly to solve the given problem quickly using best strategy known today. Then find new ways. **You dont know everything.**
 
+[14-Mar-2025] Achieve goal efficiently(Time and Space):
+Finding, Exploring, Managing and Using most useful information on top-most time efficient path to reach the goal with the given input(resources) and output(goal) contraints. **You dont know everything.**
+
 ## **Time Optimization**
 - **Improve Processing Time**  
   - Reduce the time taken to produce the output for a given input.
